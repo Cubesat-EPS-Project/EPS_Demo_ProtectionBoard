@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "597-3301-507F")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/597-3301-507F.lib")(options "")(descr ""))
+  (lib (name "282837-2")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/282837-2.lib")(options "")(descr ""))
+  (lib (name "CL10A106MP8NNNC")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/CL10A106MP8NNNC.lib")(options "")(descr ""))
+  (lib (name "CRCW0603510RJNEA")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/CRCW0603510RJNEA.lib")(options "")(descr ""))
+  (lib (name "LTC4361HTS8-2-TRMPBF")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/LTC4361HTS8-2-TRMPBF.lib")(options "")(descr ""))
+  (lib (name "SI1470DH-T1-E3")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/SI1470DH-T1-E3.lib")(options "")(descr ""))
+  (lib (name "WSL0603R0510FEA")(type "Legacy")(uri "C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/WSL0603R0510FEA.lib")(options "")(descr ""))
+)
