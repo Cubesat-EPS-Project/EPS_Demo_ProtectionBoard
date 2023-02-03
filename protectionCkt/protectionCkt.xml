@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\USER\MyKicadProjects\EPSprotection\protectionCkt\protectionCkt.kicad_sch</source>
+    <date>2/2/2023 6:05:42 AM</date>
+    <tool>Eeschema (6.0.10)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>protectionCkt.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>CL10A106MP8NNNC</value>
+      <footprint>myfootprints:CL10A106MP8NNNC</footprint>
+      <fields>
+        <field name="Cvalue">10uF</field>
+      </fields>
+      <libsource lib="CL10A106MP8NNNC" part="CL10A106MP8NNNC" description=""/>
+      <property name="Cvalue" value="10uF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="protectionCkt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef5a174a-7287-45d9-b4b0-93a52b9c34c0</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>597-3301-507F</value>
+      <footprint>myfootprints:597-3301-507F</footprint>
+      <libsource lib="597-3301-507F" part="597-3301-507F" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="protectionCkt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1858dc81-2b32-4efa-af08-335cadbb5294</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>0.025</value>
+      <footprint>myfootprints:WSL0603R0510FEA</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="protectionCkt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>084e84d3-7679-48fe-9040-8e3c076034f8</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>CRCW0603510RJNEA</value>
+      <footprint>myfootprints:CRCW0603510RJNEA</footprint>
+      <fields>
+        <field name="Rvalue">510</field>
+      </fields>
+      <libsource lib="CRCW0603510RJNEA" part="CRCW0603510RJNEA" description=""/>
+      <property name="Rvalue" value="510"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="protectionCkt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a4428bc-edfe-4d44-85c7-20c5fb2a4201</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>282837-2</value>
+      <footprint>myfootprints:282837-2</footprint>
+      <libsource lib="282837-2" part="282837-2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="protectionCkt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c65acab-08f9-476c-acdd-73bf5dde897c</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>282837-2</value>
+      <footprint>myfootprints:282837-2</footprint>
+      <libsource lib="282837-2" part="282837-2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="protectionCkt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9c42491-2f40-4dcc-a556-87ef8daf5d15</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SI1470DH-T1-E3</value>
+      <footprint>myfootprints:SI1470DH-T1-E3</footprint>
+      <libsource lib="SI1470DH-T1-E3" part="SI1470DH-T1-E3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="protectionCkt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7661b189-24bf-4414-b5b5-28e86570827c</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LTC4361HTS8-2-TRMPBF</value>
+      <footprint>myfootprints:LTC4361HTS8-2-TRMPBF</footprint>
+      <libsource lib="LTC4361HTS8-2-TRMPBF" part="LTC4361HTS8-2-TRMPBF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="protectionCkt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>294d56b9-c9b3-46d8-b574-f6171ee8b107</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>282837-2</value>
+      <footprint>myfootprints:282837-2</footprint>
+      <libsource lib="282837-2" part="282837-2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="protectionCkt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e66cacd6-128f-4969-a301-5ee261e88fab</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="282837-2" part="282837-2">
+      <footprints>
+        <fp>282837-2_TYC</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">282837-2</field>
+        <field name="Footprint">282837-2_TYC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="597-3301-507F" part="597-3301-507F">
+      <footprints>
+        <fp>LED_111-507F_DIA</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">597-3301-507F</field>
+        <field name="Footprint">LED_111-507F_DIA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="CL10A106MP8NNNC" part="CL10A106MP8NNNC">
+      <footprints>
+        <fp>CAP_CL10_SAM</fp>
+        <fp>CAP_CL10_SAM-M</fp>
+        <fp>CAP_CL10_SAM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CL10A106MP8NNNC</field>
+        <field name="Footprint">CAP_CL10_SAM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="CRCW0603510RJNEA" part="CRCW0603510RJNEA">
+      <footprints>
+        <fp>RC0603N_VIS</fp>
+        <fp>RC0603N_VIS-M</fp>
+        <fp>RC0603N_VIS-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">CRCW0603510RJNEA</field>
+        <field name="Footprint">RC0603N_VIS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LTC4361HTS8-2-TRMPBF" part="LTC4361HTS8-2-TRMPBF">
+      <footprints>
+        <fp>TSOT-23_TS8_LIT</fp>
+        <fp>TSOT-23_TS8_LIT-M</fp>
+        <fp>TSOT-23_TS8_LIT-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LTC4361HTS8-2-TRMPBF</field>
+        <field name="Footprint">TSOT-23_TS8_LIT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="*ON" type="input"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="GATEP" type="unspecified"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="IN" type="input"/>
+        <pin num="6" name="SENSE" type="input"/>
+        <pin num="7" name="GATE" type="unspecified"/>
+        <pin num="8" name="*PWRGD" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="SI1470DH-T1-E3" part="SI1470DH-T1-E3">
+      <footprints>
+        <fp>SC-70-6_SI_VIS</fp>
+        <fp>SC-70-6_SI_VIS-M</fp>
+        <fp>SC-70-6_SI_VIS-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SI1470DH-T1-E3</field>
+        <field name="Footprint">SC-70-6_SI_VIS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="unspecified"/>
+        <pin num="2" name="D" type="unspecified"/>
+        <pin num="3" name="G" type="unspecified"/>
+        <pin num="4" name="S" type="unspecified"/>
+        <pin num="5" name="D" type="unspecified"/>
+        <pin num="6" name="D" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="282837-2">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/282837-2.lib</uri>
+    </library>
+    <library logical="597-3301-507F">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/597-3301-507F.lib</uri>
+    </library>
+    <library logical="CL10A106MP8NNNC">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/CL10A106MP8NNNC.lib</uri>
+    </library>
+    <library logical="CRCW0603510RJNEA">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/CRCW0603510RJNEA.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="LTC4361HTS8-2-TRMPBF">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/LTC4361HTS8-2-TRMPBF.lib</uri>
+    </library>
+    <library logical="SI1470DH-T1-E3">
+      <uri>C:/Users/USER/MyKicadProjectSymbolsAndFootprints/MySymbols/SI1470DH-T1-E3.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="LED1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U3" pin="4" pinfunction="S" pintype="unspecified"/>
+      <node ref="U4" pin="2" pinfunction="OUT" pintype="output"/>
+      <node ref="U5" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="3" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="4" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="D" pintype="unspecified"/>
+      <node ref="U3" pin="2" pinfunction="D" pintype="unspecified"/>
+      <node ref="U3" pin="5" pinfunction="D" pintype="unspecified"/>
+      <node ref="U3" pin="6" pinfunction="D" pintype="unspecified"/>
+      <node ref="U4" pin="6" pinfunction="SENSE" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U4" pin="8" pinfunction="*PWRGD" pintype="output"/>
+    </net>
+    <net code="6" name="Net-(U3-Pad3)">
+      <node ref="U3" pin="3" pinfunction="G" pintype="unspecified"/>
+      <node ref="U4" pin="7" pinfunction="GATE" pintype="unspecified"/>
+    </net>
+    <net code="7" name="VCC">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U4" pin="5" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="8" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="2" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="9" name="unconnected-(U4-Pad1)">
+      <node ref="U4" pin="1" pinfunction="*ON" pintype="input+no_connect"/>
+    </net>
+    <net code="10" name="unconnected-(U4-Pad3)">
+      <node ref="U4" pin="3" pinfunction="GATEP" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>
