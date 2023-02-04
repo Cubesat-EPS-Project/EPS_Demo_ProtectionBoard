@@ -1,0 +1,9 @@
+Reference, Quantity,Model, Footprint, Datasheet_link, Value,Price
+C1 ,4,CL10A106MP8NNNC,myfootprints:CL10A106MP8NNNC,https://www.mouser.in/ProductDetail/Samsung-Electro-Mechanics/CL10A106MP8NNNC?qs=X6jEic%2FHinAgjcVTZfg7UA%3D%3D,10uF,?13.84
+LED1 ,4,597-3301-507F,myfootprints:597-3301-507F,https://www.mouser.in/ProductDetail/Dialight/597-3301-507F?qs=w8nAMTCRzOaWRWM6QVm8og%3D%3D,-,?43.96
+R1 ,4,WSL0603R0510FEA,myfootprints:WSL0603R0510FEA,https://www.mouser.in/ProductDetail/Vishay-Dale/WSL0603R0510FEA?qs=Dk6UgDv3OKg2j6AnJocjqg%3D%3D,0.025?,?94.42
+R2 ,10,CRCW0603510RJNEA,myfootprints:CRCW0603510RJNEA,https://www.mouser.in/ProductDetail/Vishay-Dale/CRCW0603510RJNEA?qs=F8Fiu5nZiPjhir5Uy48eTQ%3D%3D,510?,?2.77
+U1 U2 U5 ,10,282837-2,myfootprints:282837-2,https://www.mouser.in/ProductDetail/TE-Connectivity/282837-2?qs=A%252Bip%252BNCYi6O2H0NGWOeAxg%3D%3D,-,?53.56
+U3 ,4,SI1470DH-T1-E3,myfootprints:SI1470DH-T1-E3,https://www.mouser.in/ProductDetail/Vishay-Siliconix/SI1470DH-T1-E3?qs=G1LhLIAbs1ynsgmxQPS0oQ%3D%3D,-,not available
+u3-alt,4,SI1416EDH-T1-GE3,same footprint as U3,https://www.mouser.in/ProductDetail/?qs=pNKBmB2EQRiQP6xZUEPceg%3D%3D,-,?38.26
+U4 ,4,LTC4361HTS8-2-TRMPBF,myfootprints:LTC4361HTS8-2-TRMPBF,https://www.mouser.in/ProductDetail/Analog-Devices/LTC4361HTS8-2TRMPBF?qs=hVkxg5c3xu83wO7jcAGTNA%3D%3D,-,?488.4

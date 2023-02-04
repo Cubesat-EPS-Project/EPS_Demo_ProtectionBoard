@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\USER\MyKicadProjects\EPSprotection\protectionCkt\protectionCkt.kicad_sch</source>
-    <date>2/2/2023 6:05:42 AM</date>
+    <date>2/3/2023 6:40:20 PM</date>
     <tool>Eeschema (6.0.10)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -288,22 +288,20 @@
       <node ref="U2" pin="1" pinfunction="1" pintype="unspecified"/>
       <node ref="U4" pin="8" pinfunction="*PWRGD" pintype="output"/>
     </net>
-    <net code="6" name="Net-(U3-Pad3)">
+    <net code="6" name="Net-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U4" pin="1" pinfunction="*ON" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(U3-Pad3)">
       <node ref="U3" pin="3" pinfunction="G" pintype="unspecified"/>
       <node ref="U4" pin="7" pinfunction="GATE" pintype="unspecified"/>
     </net>
-    <net code="7" name="VCC">
+    <net code="8" name="VCC">
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="1" pintype="unspecified"/>
       <node ref="U4" pin="5" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="8" name="unconnected-(U2-Pad2)">
-      <node ref="U2" pin="2" pinfunction="2" pintype="unspecified+no_connect"/>
-    </net>
-    <net code="9" name="unconnected-(U4-Pad1)">
-      <node ref="U4" pin="1" pinfunction="*ON" pintype="input+no_connect"/>
-    </net>
-    <net code="10" name="unconnected-(U4-Pad3)">
+    <net code="9" name="unconnected-(U4-Pad3)">
       <node ref="U4" pin="3" pinfunction="GATEP" pintype="unspecified+no_connect"/>
     </net>
   </nets>
